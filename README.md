@@ -8,7 +8,7 @@
 <a href = 'https://www.github.com/eblancoh'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </br>
 
-<p>I am Enrique Blanco Henríquez, Artificial Intelligence Researcherand Tech Lead  @ Telefónica Digital España CTO.
+<p>I am Enrique Blanco Henríquez, Artificial Intelligence Researcher and Tech Lead  @ Telefónica Digital España CTO.
 </p> 
 
 ## My GitHub Stats
