@@ -8,11 +8,5 @@
 <a href = 'https://www.github.com/eblancoh'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </br>
 
-<p>I am Enrique Blanco Henríquez, Artificial Intelligence Researcher and Tech Lead  @ Telefónica Digital España CTO.
+<p>I am Enrique Blanco Henríquez, Artificial Intelligence Researcher and Tech Lead  @ Telefónica Digital España.
 </p> 
-
-## My GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eblancoh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eblancoh&langs_count=8&layout=compact&theme=dark" />
