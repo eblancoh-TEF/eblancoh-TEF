@@ -1,4 +1,4 @@
-## Hi there! <img align='center' src="https://media.giphy.com/media/mnFNB5IIabdgVve3zb/giphy.gif" width="50">
+## Hi there!
 
 <p>I am Enrique Blanco Henríquez,
   
